@@ -6,7 +6,7 @@ This project demonstrates data transformation, data cleaning, and data modeling 
 
 ## Dashboard Preview
 ![E-Commerce Sales Analysis Dashboard](dashboard.png)
-
+![E-Commerce Sales Analysis Dashboard](dashboard.png)
 
 ## Project Objectives
 
