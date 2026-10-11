@@ -5,8 +5,7 @@
 This project demonstrates data transformation, data cleaning, and data modeling using Microsoft Power BI and Power Query. The goal is to prepare a reliable dataset and build an interactive dashboard for E-Commerce Sales Analysis.
 
 ## Dashboard Preview
-![E-Commerce Sales Analysis Dashboard](dashboard.png)
-![E-Commerce Sales Analysis Dashboard](dashboard.png)
+![E-Commerce Sales Analysis Dashboard](./dashboard.png)
 
 ## Project Objectives
 
